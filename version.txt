@@ -1,0 +1,2 @@
+Proteus 8.9 SP2 Build 28501
+CodeVisionAVR 3.12

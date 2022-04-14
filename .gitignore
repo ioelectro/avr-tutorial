@@ -1,0 +1,9 @@
+Debug
+Release
+*~
+*.pdsbak
+*.workspace
+*.fct
+*.cproj
+*.atsln
+*.cci
